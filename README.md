@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
 
+<h2> 👋 Hola soy Marcos.</h2>
 
+<h3> 👨🏻‍💻 &nbsp;Sobre mí</h3>
+
+- 🤔 &nbsp; Soy una persona proactiva, muy organizada, curiosa con ganas de seguir aprendiendo.
+- 💼 &nbsp; En búsqueda de mi primer trabajo IT.
+- 🌱 &nbsp; Me gustaría seguir creciendo tanto como profesional como persona.
+
+<h3> 🛠 &nbsp;Stack de tecnologias</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcos-mi&label=Profile%20views&color=0e75b6&style=flat" alt="marcos-mi" /> </p>
 
 <h3 align="left">Connect with me:</h3>
